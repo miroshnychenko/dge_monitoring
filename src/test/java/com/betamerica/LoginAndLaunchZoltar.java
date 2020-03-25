@@ -34,7 +34,7 @@ public class LoginAndLaunchZoltar {
 
     @Test
     public void loginAndLaunchZoltarTest() throws InterruptedException {
-        driver.get("https://nj-betamerica-dge.staging.sbtech.com/en/casino-hub-stg/");
+        driver.get(url);
 
         HeaderBlock headerBlock = PageFactory.initElements(driver, HeaderBlock.class);
         headerBlock.clickLoginButton();
