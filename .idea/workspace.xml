@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59966e54-dc7c-456d-8cf1-6d7368210b37" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/betamerica/blocks/AbstractBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/betamerica/blocks/AbstractBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/betamerica/blocks/HeaderBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/betamerica/blocks/HeaderBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/betamerica/blocks/LoginBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/betamerica/blocks/LoginBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/betamerica/blocks/casino/TopMenuBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/betamerica/blocks/casino/TopMenuBlock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/betamerica/LoginAndLaunchZoltar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/betamerica/LoginAndLaunchZoltar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/betamerica/LoginAndLaunchZoltar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/betamerica/LoginAndLaunchZoltar.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +33,6 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
   </component>
   <component name="ProjectId" id="1ZcOEEk2H2uH977FpNvCNszKFP1" />
   <component name="ProjectViewState">
@@ -133,22 +133,22 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="209" key="GridCell.Tab.0.bottom" timestamp="1585134897708">
+    <state width="1358" height="209" key="GridCell.Tab.0.bottom" timestamp="1585135711164">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="209" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585134897708" />
-    <state width="1358" height="209" key="GridCell.Tab.0.center" timestamp="1585134897706">
+    <state width="1358" height="209" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585135711164" />
+    <state width="1358" height="209" key="GridCell.Tab.0.center" timestamp="1585135711163">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="209" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585134897706" />
-    <state width="1358" height="209" key="GridCell.Tab.0.left" timestamp="1585134897705">
+    <state width="1358" height="209" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585135711163" />
+    <state width="1358" height="209" key="GridCell.Tab.0.left" timestamp="1585135711161">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="209" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585134897705" />
-    <state width="1358" height="209" key="GridCell.Tab.0.right" timestamp="1585134897707">
+    <state width="1358" height="209" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585135711161" />
+    <state width="1358" height="209" key="GridCell.Tab.0.right" timestamp="1585135711163">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="209" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585134897707" />
+    <state width="1358" height="209" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585135711163" />
   </component>
   <component name="masterDetails">
     <states>

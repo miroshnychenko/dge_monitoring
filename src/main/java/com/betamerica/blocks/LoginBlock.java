@@ -4,8 +4,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
 
-public class LoginBlock extends AbstractBlock{
+public class LoginBlock extends AbstractBlock {
 
     @FindBy(how = How.CSS, using = "input[data-uat=login-username-input]")
     private WebElement usernameField;
@@ -18,6 +19,7 @@ public class LoginBlock extends AbstractBlock{
 
     public LoginBlock(WebDriver driver) {
         super(driver);
+        PageFactory.initElements(driver, this);
     }
 
     public void submitLoginForm(String username, String password) {
